@@ -2,7 +2,7 @@
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-SUPPORT_BOT_TOKEN = "7772419235:AAFBJnZEg-wqfBR16uHkp1_AB5gZgp-Yza0"
+SUPPORT_BOT_TOKEN = "7772419235:AAFhFo4h9t5NVaVlNgDe_ifK8zEnGwRPOpQ"
 ADMIN_CHAT_ID = "6711531095" # Your Telegram ID or admin group chat ID
 
 bot = telebot.TeleBot(SUPPORT_BOT_TOKEN)
